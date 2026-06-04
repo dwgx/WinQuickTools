@@ -1,0 +1,54 @@
+# Windows / OS generated files
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+.DS_Store
+
+# Editor / IDE local settings
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# Logs, caches, and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+.cache/
+tmp/
+temp/
+
+# Local config and secrets
+.env
+.env.*
+!.env.example
+*.local
+*.secret
+secrets/
+credentials/
+
+# Build and release artifacts
+bin/
+obj/
+build/
+dist/
+out/
+release/
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+
+# Binary or machine-local Windows artifacts
+*.exe
+*.dll
+*.msi
+*.lnk
